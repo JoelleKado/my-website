@@ -1,0 +1,12 @@
+.i {
+font-style: italic;
+}
+#header {
+background: black;
+  color: pink;
+  box-shadow: 0 5px 5px hotpink;
+}
+#header a {
+text-decoration: none;
+}
+
